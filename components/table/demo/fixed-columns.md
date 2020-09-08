@@ -18,12 +18,7 @@ const columns = [
   { title: '列1', dataIndex: 'address', key: '1' },
   { title: '列2', dataIndex: 'address', key: '2' },
   { title: '列3', dataIndex: 'address', key: '3' },
-  { title: '列4', dataIndex: 'address', key: '4' },
-  { title: '列5', dataIndex: 'address', key: '5' },
-  { title: '列6', dataIndex: 'address', key: '6' },
-  { title: '列7', dataIndex: 'address', key: '7' },
-  { title: '列8', dataIndex: 'address', key: '8' },
-  {
+   {
     title: '操作',
     key: 'operation',
     fixed: 'right',
